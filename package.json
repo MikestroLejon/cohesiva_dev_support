@@ -1,0 +1,19 @@
+{
+  "name": "new_agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@octokit/rest": "^21.1.1",
+    "axios": "^1.8.4",
+    "dotenv": "^16.5.0",
+    "node-cron": "^3.0.3",
+    "openai": "^4.93.0"
+  }
+}
